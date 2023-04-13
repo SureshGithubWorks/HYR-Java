@@ -2,7 +2,7 @@ package com.Encapsulation;
 
 /* ENCAPSULATION
  * DEF:-
- * 		It is a mechanism of wrapping the dataa(variables) and code acting
+ * 		It is a mechanism of wrapping the data(variables) and code acting
  * 		on the data(methods) together as a single unit
  * 									(Or)
  * 		It describes the ability of an object to hide its data and methods
